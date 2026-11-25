@@ -1,0 +1,13 @@
+{
+  "name": "vupay",
+  "version": "1.0.0",
+  "description": "VuPay : regarde des vidéos, réponds à une question, encaisse des FCFA sur ton Mobile Money.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
